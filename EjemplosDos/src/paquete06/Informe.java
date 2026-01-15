@@ -12,12 +12,12 @@ public class Informe {
 
     public static void imprimir(String a, String b, String c, String d, String e, double[] f, double g) {
         String cadena = "";
-        cadena = cadena + String.format("Los datos ingresados son:\n"
+        cadena = cadena + String.format("\nLOS DATOS INGRESADOS SON :\n"
                 + "Nombre: %s\n"
                 + "Apellido: %s\n"
                 + "Ciudad: %s\n"
                 + "Nombre de la Empresa: %s\n"
-                + "Direccion de la empresa: %s"
+                + "Direccion de la empresa: %s\n"
                 + "Notas:",
                 a,
                 b,

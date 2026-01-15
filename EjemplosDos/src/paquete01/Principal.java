@@ -12,7 +12,7 @@ import paquete05.DatoFinal;
 import paquete02.DatoTrabajo;
 import paquete06.Informe;
 
-/**
+/**  
  *
  * @author reroes
  */
